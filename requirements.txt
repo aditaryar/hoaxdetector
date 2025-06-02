@@ -3,3 +3,4 @@ transformers==4.30.2
 tokenizers==0.13.3
 streamlit==1.27.2
 scikit-learn
+rich==13.7.1
